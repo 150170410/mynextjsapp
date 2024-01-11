@@ -12,7 +12,7 @@ const inter = Open_Sans({
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className={inter.className}>
+    <html lang="en" className={inter.className}> 
       <head />
       <body>
         <header>
